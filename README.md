@@ -22,7 +22,7 @@ For this project, we'll be considering 10 of the products listed [!here](https:/
 
 To train our ML model, we need to collect some data. We'll take some screenshots on instacart and label them using labelimg. The labels that will be considered are the Product, Name, and Price. Here is a sample screenshot.
 
-[!image](labelimg.png)
+[!image](labelImg.png)
 
 The screenshots from Instacart should be saved in the data/images folder and the annotations should be saved in data/annotations folder.
 
